@@ -1,3 +1,6 @@
 [submodule "shopper-price-update-server"]
 	path = shopper-price-update-server
 	url = https://github.com/nbc7/shopper-price-update-server.git
+[submodule "shopper-price-update-web"]
+	path = shopper-price-update-web
+	url = https://github.com/nbc7/shopper-price-update-web.git
